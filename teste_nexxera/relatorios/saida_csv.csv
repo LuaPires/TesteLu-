@@ -1,0 +1,4 @@
+Nome Empresa;Numero Incricao Empresa;Nome Banco;Nome da Rua;Numero do Local;Cidade;Estado;Forma Lancamento;Nome Favorecido;Data Pagamento;Valor Pagamento;Numero Documento
+Empresa Y;98765432000155;Banco Z;Rua XYZ;456;Cidade W;São Paulo;1;Cliente B;05/February/2024;500,75;1234567890
+Empresa X;12345678000199;Banco Y;Rua ABC;123;Cidade Z;Santa Catarina;3;Cliente A;10/March/2024;1,200,50;9876543210
+Empresa Z;56789123000188;Banco W;Av. QRS;789;Cidade V;Rio de Janeiro;5;Cliente C;15/April/2024;320,90;5432109876
